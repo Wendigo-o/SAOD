@@ -23,7 +23,7 @@ namespace Глазки_ООП
         void richtextbox()
         {
             richTextBox.Clear();
-            int[] mas = mystack.List();           
+            int[] mas = mystack.ToArray();           
             
             for (int i = 0; i < mas.Length; i++)
             {

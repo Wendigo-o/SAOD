@@ -52,7 +52,7 @@ namespace Глазки_ООП
             else throw new MyException("Очередь пуста");
         }
 
-        public T[] List()
+        public T[] ToArray()
         {
             T[] mas_c = new T[count];
             int count_mas = head;
