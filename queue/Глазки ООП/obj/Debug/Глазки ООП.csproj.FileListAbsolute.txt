@@ -1,0 +1,22 @@
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\bin\Debug\Глазки ООП.exe.config
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\bin\Debug\Глазки ООП.exe
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\bin\Debug\Глазки ООП.pdb
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.AssemblyReference.cache
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.SuggestedBindingRedirects.cache
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки_ООП.FORMA.resources
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки_ООП.Properties.Resources.resources
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.GenerateResource.cache
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.CoreCompileInputs.cache
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.exe
+C:\Users\nar.21\Desktop\SAOD_2255_Nechaeva_Nastya-task-queue\queue\Глазки ООП\obj\Debug\Глазки ООП.pdb
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\bin\Debug\Глазки ООП.exe.config
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\bin\Debug\Глазки ООП.exe
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\bin\Debug\Глазки ООП.pdb
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки_ООП.FORMA.resources
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки_ООП.Properties.Resources.resources
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.GenerateResource.cache
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.exe
+C:\Users\Professional\Documents\Распределитель\саод\queue\Глазки ООП\obj\Debug\Глазки ООП.pdb
